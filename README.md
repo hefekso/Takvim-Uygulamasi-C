@@ -16,7 +16,3 @@ Bilgisayar Mühendisliği 1. sınıf programlama ödevi kapsamında geliştirilm
 * Windows işletim sistemi (`<conio.h>` kütüphanesi ve konsol komutları nedeniyle)
 * Bir C derleyicisi (GCC, MinGW veya Visual Studio)
 
-### Derleme
-1. Repoyu bilgisayarınıza indirin:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
